@@ -1,0 +1,28 @@
+# Node.js files
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# macOS hidden files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.sln
+*.suo
+*.user
+*.bak
+*.cache
+*.tmp
+*.log
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
